@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gerenciador de Tarefas</h1>
+    </header>
+
+    <div style="display: flex; gap: 20px;">
+        <!-- Minhas Tarefas -->
+        <div>
+            <h2>Minhas Tarefas</h2>
+            <div id="lista-tarefas"></div>
+        </div>
+    
+        <!-- Adicionar Tarefa -->
+        <div>
+            <h2>Adicionar Tarefa</h2>
+            <input type="text" id="nova-tarefa" placeholder="Descrição da tarefa">
+            <input type="number" id="usuario-id" placeholder="ID do usuário">
+            <button onclick="adicionarTarefa()">Adicionar</button>
+        </div>
+    
+        <!-- Buscar Tarefas por Usuário -->
+        <div>
+            <h2>Listar Tarefas por Usuário</h2>
+            <input type="number" id="busca-usuario-id" placeholder="ID do usuário">
+            <button onclick="buscarPorUsuario()">Buscar</button>
+            <div id="lista-busca"></div>
+        </div>
+    </div>    
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -26,7 +26,7 @@ Este é um simples gerenciador de tarefas que permite adicionar, listar, editar 
 - index.html       *Estrutura da interface*
 - styles.css       *Estilização da página*
 - script.js        *Lógica de manipulação das tarefas*
-README.md        *Documentação do projeto*
+- README.md        *Documentação do projeto*
 
 # 📖 Como Executar o Projeto #
 

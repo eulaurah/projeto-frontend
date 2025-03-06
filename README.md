@@ -32,9 +32,8 @@ README.md        *Documentação do projeto*
 
 **Clone este repositório:**
 
-- git clone <URL_DO_REPOSITORIO>
+- git clone <https://github.com/eulaurah/projeto-frontend.git>
 - Navegue até a pasta do projeto:
-
 **Abra o arquivo index.html em um navegador.**
 
 # 📝 Como Usar #
@@ -44,3 +43,9 @@ README.md        *Documentação do projeto*
 - **Buscar por Usuário:** Digite um ID de usuário e clique em "Buscar".
 - **Editar:** Clique no botão "Editar" ao lado de uma tarefa para modificá-la.
 - **Excluir:** Clique no botão "Excluir" para remover uma tarefa.
+
+# 📝 Membros #
+
+- Laura Maria G Romão (Responsável pela Estrutura da Página: HTML)
+- Glória Maria N Silva (Responsável pela Estilização da Página)
+- Vitória de Fátima Soares (Responsável pela Funcionalidade com JavaScript e Integração com a API do JSONPlaceholder)

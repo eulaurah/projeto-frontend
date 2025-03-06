@@ -17,15 +17,15 @@ Este é um simples gerenciador de tarefas que permite adicionar, listar, editar 
 
 # 🛠 Tecnologias Utilizadas #
 
-HTML para estruturação da interface.
-CSS para estilização dos containers e elementos.
-JavaScript para a lógica de adição, edição e remoção de tarefas.
+- HTML para estruturação da interface.
+- CSS para estilização dos containers e elementos.
+- JavaScript para a lógica de adição, edição e remoção de tarefas.
 
 # 📂 Estrutura do Projeto #
 
-index.html       *Estrutura da interface*
-styles.css       *Estilização da página*
-script.js        *Lógica de manipulação das tarefas*
+- index.html       *Estrutura da interface*
+- styles.css       *Estilização da página*
+- script.js        *Lógica de manipulação das tarefas*
 README.md        *Documentação do projeto*
 
 # 📖 Como Executar o Projeto #
